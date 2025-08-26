@@ -63,7 +63,7 @@ C2RustTranspiler/
 
 How to Run
 
-1. Open the project folder in your terminal or IDE
+1. Open the project folder in your terminal or IDE or Download it from Releases.  
 
 
 2. Run:
